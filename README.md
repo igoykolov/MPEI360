@@ -19,7 +19,6 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<title>Microsoft PowerPoint - a-20-23 Street view3.pptx</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Сергей Сергей</o:Author>
